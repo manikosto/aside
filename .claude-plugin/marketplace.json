@@ -1,0 +1,21 @@
+{
+  "name": "aside",
+  "owner": {
+    "name": "manikosto",
+    "url": "https://github.com/manikosto"
+  },
+  "description": "Ask about the session on the side: questions answered from the whole conversation, without adding a word to it or spending its context",
+  "plugins": [
+    {
+      "name": "aside",
+      "description": "Ask about the session on the side: questions answered from the whole conversation, without adding a word to it or spending its context",
+      "source": "./",
+      "category": "productivity",
+      "tags": [
+        "mod",
+        "pane",
+        "chat"
+      ]
+    }
+  ]
+}

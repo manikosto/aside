@@ -1,0 +1,9 @@
+{
+  "name": "aside",
+  "version": "0.1.0",
+  "description": "Ask about the session on the side: questions answered from the whole conversation, without adding a word to it or spending its context",
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "widthPercent": { "type": "number", "title": "Pane width (%)", "description": "Share of the terminal the docked pane asks for", "default": 40 }
+  }
+}
